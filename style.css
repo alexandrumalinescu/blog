@@ -1,0 +1,55 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+.container {
+  border-bottom: 1px solid black;
+  height: 40px;
+  width: 100%;
+}
+
+.titlu {
+  float: left;
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+h4 {
+  margin-left: 10px;
+}
+
+.meniu {
+  float: right;
+  margin-right: 10px;
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.meniu li {
+  display: inline-block;
+  text-transform: uppercase;
+}
+
+li a {
+  padding: 5px;
+  color: black;
+  
+}
+
+p1, p2, p3 {
+ font-size: 15px;
+}
+
+.list2 {
+  padding-top: 20px;
+  padding-left: 50px;
+  font-size: 15px;
+  padding-bottom: 50px;
+}
+
+
+
